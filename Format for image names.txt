@@ -1,0 +1,6 @@
+Format for image names:
+Reference number = the job reference.
+Field name = the name of the photo input in the form (ie. Photo of the front of the property (Photos-ce5s)).
+Number in field = the number of the image, as some fields allowed for multiple image uploads.
+
+<reference number> - <field name> - <number in field>.jpg
