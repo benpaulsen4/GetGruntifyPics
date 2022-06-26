@@ -8,7 +8,7 @@
     "start": "node getGruntifyPics.js"
   },
   "author": "Ben Paulsen",
-  "license": "GPL-3",
+  "license": "GPLv3",
   "dependencies": {
     "async-sema": "^3.1.1",
     "csvtojson": "^2.0.10",

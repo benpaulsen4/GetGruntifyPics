@@ -1,11 +1,5 @@
 {
     "fields": [
-        "Photo of the front of the property (Photos-ce5s)",
-        "PV pictures on roof (Photos-jqd9)",
-        "Model, Serial number (Photos-8v0i)",
-        "Photo of Switchboard (Photos-us8j)",
-        "Photo of any PV signage or labelling (Photos-1ks6)",
-        "Photo PV Electrical Certification (Photos-cztz)",
         "Media"
     ],
     "rate-limit": 10,
